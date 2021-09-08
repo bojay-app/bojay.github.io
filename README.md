@@ -6,4 +6,4 @@ BookQ is a language learner & book reader app that help you to learn foreign lan
 
 If you have any question or feedback, feel free to contact us.
 
-[Email](bojay.app@gmail.com)
+[Send Email](bojay.app@gmail.com)
