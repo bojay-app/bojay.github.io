@@ -1,4 +1,4 @@
-#  BookQ Support ❤️
+#  BookQ Support
 
 ## Overview
 
